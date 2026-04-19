@@ -9,6 +9,7 @@ interlink auto claim bot
 
 # Clone the repo
 
+ git clone https://github.com/BamarAirdropGroup/Interlink.git && cd Interlink && pip install -r requirements.txt
  
 
 # Add your data in accounts.json
