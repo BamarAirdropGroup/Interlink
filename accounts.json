@@ -1,0 +1,12 @@
+[
+    {
+        "email": "your_email_address_1",
+        "passcode": "your_passcode",
+        "interlinkId": "your_interlink_id ( only number )"
+    },
+    {
+        "email": "your_email_address_2",
+        "passcode": "your_passcode",
+        "interlinkId": "your_interlink_id (  only number )"
+    }
+]
